@@ -7,7 +7,9 @@
 در ابتدا Intellij را نصب می‌کنیم و سپس یک پروژه‌ی مبتنی بر maven می‌سازیم. 
 ساختار پروژه در نهایت به شرح زیر است:
 
+<p align="center">
 <img width="323" alt="Screenshot 1402-04-30 at 8 23 00 PM" src="https://github.com/SinaElahimanesh/Software-SOLID/assets/59636948/e218f853-a707-4fce-afeb-9803b7ab06f8">
+</p>
 
 سپس به maven دیپندنسی‌های لازم برای JUnit را به منظور تست اضافه می‌کنیم.
 
