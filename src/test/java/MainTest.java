@@ -7,7 +7,7 @@ class MainTest {
     void computeAreaTest1() {
         // Test 1
         Rectangle rectangle1 = new Rectangle(0, 0);
-        assertEquals(0, rectangle1.computeArea(), "Compute Area");
+        assertEquals(-1, rectangle1.computeArea(), "Compute Area");
     }
 
     @Test
@@ -50,5 +50,26 @@ class MainTest {
         // Test 7
         Rectangle rectangle7 = new Rectangle(-5, -3);
         assertEquals(-1, rectangle7.computeArea(), "Compute Area");
+    }
+
+    @Test
+    void computeAreaTest8() {
+        // Test 8
+        Square square1 = new Square(-5);
+        assertEquals(-1, square1.computeArea(), "Compute Area");
+    }
+
+    @Test
+    void computeAreaTest9() {
+        // Test 9
+        Square square2 = new Square(4);
+        assertEquals(16, square2.computeArea(), "Compute Area");
+    }
+
+    @Test
+    void computeAreaTest10() {
+        // Test 10
+        Square square3 = new Square(0);
+        assertEquals(-1, square3.computeArea(), "Compute Area");
     }
 }
