@@ -69,14 +69,14 @@
 در ادامه برای مربع تست می‌نویسیم.
 
 <p align="center">
-<img width="707" alt="Screenshot 1402-04-30 at 8 44 39 PM" src="https://github.com/SinaElahimanesh/Software-SOLID/assets/59636948/f25ba4ed-8f15-43c5-9c8c-78f4e83f5747">
+<img width="746" alt="Screenshot 1402-04-30 at 11 00 46 PM" src="https://github.com/SinaElahimanesh/Software-SOLID/assets/59636948/6288b44a-f5ac-4e4a-9b92-ac053ae8ca56">
 </p>
 
 
-در نهایت برای اینکه بتوانیم مربع را هم پوشش دهیم باید یک constructor دیگر با یک فیلد ورودی بسازیم.
+در نهایت برای اینکه بتوانیم مربع را هم پوشش دهیم باید یک کلاس جدید ایجاد می‌کنیم.
 
 <p align="center">
-<img width="282" alt="Screenshot 1402-04-30 at 8 43 33 PM" src="https://github.com/SinaElahimanesh/Software-SOLID/assets/59636948/a669d9f7-1580-4c3a-ab22-b183cf95b308">
+<img width="384" alt="Screenshot 1402-04-30 at 11 01 21 PM" src="https://github.com/SinaElahimanesh/Software-SOLID/assets/59636948/051af91d-95b1-4cb4-85a1-d13a0b4b5526">
 </p>
 
 حال تست‌ها را اجرا می‌کنیم.
