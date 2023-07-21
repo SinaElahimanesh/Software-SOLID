@@ -25,7 +25,7 @@ public class Rectangle {
     }
 
     public int computeArea() {
-        if (this.height < 0 || this.width < 0) {
+        if (this.height <= 0 || this.width <= 0) {
             return -1;
         }
         return this.height * this.width;
